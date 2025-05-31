@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Full stack Engineer turned Entrepreneur. I love building things and helping people. Very active on Twitter.",
   summary:
-    "a full-stack developer with 4+ years of experience in building modern web applications. I specialize in front-end development using React.js, Next.js, and modern UI tools like Tailwind CSS and shadcn/ui. On the back end, I work with Nest.js, Node.js, and both SQL and NoSQL databases. I'm passionate about learning and currently exploring AI and Web3, building real-world agents to push my skills even further. I thrive on solving challenging problems and creating clean, performant, and scalable products.",
+    "a full-stack developer with 5+ years of experience in building modern web applications. I specialize in front-end development using React.js, Next.js, and modern UI tools like Tailwind CSS and shadcn/ui. On the back end, I work with Nest.js, Node.js, and both SQL and NoSQL databases. I'm passionate about learning and currently exploring AI and Web3, building real-world agents to push my skills even further. I thrive on solving challenging problems and creating clean, performant, and scalable products.",
   avatarUrl: "/me.jpeg",
   skills: [
     "React",
